@@ -1,6 +1,6 @@
 ## Hi there 👋
 - i'm a computer science student at Unicap
-- i'm like to code in python and java
+- i'm like to code in python, c++ and java
 
 <!--
 **luisfteixeira11/luisfteixeira11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
