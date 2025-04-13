@@ -5,7 +5,7 @@
 
 - Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,vim,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,vim&perline=3)](https://skillicons.dev)
 <!--
 **luisfteixeira11/luisfteixeira11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
