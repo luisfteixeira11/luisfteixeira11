@@ -3,7 +3,7 @@
 - i'm like to code in Python, C++ and Java
 - i like to improve all my habilities
 
--Skills:
+- Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,vim,flutter&perline=3)](https://skillicons.dev)
 <!--
