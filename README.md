@@ -2,6 +2,8 @@
 - i'm a Computer Science student at Unicap
 - i'm like to code in Python, C++ and Java
 - i like to improve all my habilities
+-Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,vim,flutter&perline=3)](https://skillicons.dev)
 <!--
 **luisfteixeira11/luisfteixeira11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
