@@ -1,7 +1,7 @@
 ## Hi there 👋
 - i'm a Computer Science student at Unicap
-- i like to code in Python, C++ and Java
-- i like to always learn more skills
+- i like to code in Python and C++
+- always seeking to learn more
 
 - Skills:
 
