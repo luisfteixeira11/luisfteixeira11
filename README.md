@@ -1,7 +1,6 @@
 ## Hi there 👋
-- i'm a Computer Science student at Unicap
-- i like to code in Python and C++
-- always seeking to learn more
+
+I am Luis Felipe Teixeira, a Computer Science student at Unicap, I like programming and solving problems and I am part of the university's competitive programming group.
 
 - Skills:
 
