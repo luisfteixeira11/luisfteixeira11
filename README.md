@@ -1,21 +1,8 @@
 ## Hi there 👋
 
-I am Luis Felipe Teixeira, a Computer Science student at Unicap, I like programming and solving problems and I am part of the university's competitive programming group.
+I'm Luis Felipe Teixeira, a Computer Science student at Unicap, I like to solving problems and I am part of the university's competitive programming group, I want to make a difference in people's lives.
 
-- Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,vim)](https://skillicons.dev)
-<!--
-**luisfteixeira11/luisfteixeira11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="display: flex; justify-content: center; gap: 6px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfteixeira11&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisfteixeira11&hide=contribs,issues" />
+</div>
