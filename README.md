@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Luis Felipe Teixeira, a Computer Science student at Unicap, I like to solving problems and I am part of the university's competitive programming group, I want to make a difference in people's lives.
+I'm Luis Felipe Teixeira, a Computer Engineering student at Universidade de Pernambuco (Poli-UPE), I like to solving problems and I was part of the UNICAP's competitive programming group, I want to make a difference in people's lives.
 
 <div align="center" style="display: flex; justify-content: center; gap: 6px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfteixeira11&hide_progress=true" />
